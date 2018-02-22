@@ -1,0 +1,22 @@
+{
+  "name": "deck-royale-server",
+  "version": "1.0.0",
+  "description": "Server of Deck Royale project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikenami/Deck-Royale-Server.git"
+  },
+  "author": "Karoline Ikenami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikenami/Deck-Royale-Server/issues"
+  },
+  "homepage": "https://github.com/ikenami/Deck-Royale-Server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
