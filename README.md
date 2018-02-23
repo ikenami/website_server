@@ -48,7 +48,7 @@ nodemon server
 node server
 ```
 
-You can check the running app (with (maybe) some bugs) [here](https://deck-royale-ultimate.herokuapp.com/).
+You can check the running app (with (maybe) some bugs) [here](http://deck-royale-ultimate.herokuapp.com/).
 
 
 ----------
