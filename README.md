@@ -2,6 +2,8 @@
 
 Serves the build of [Deck Royale](https://github.com/ikenami/Deck-Royale) on `localhost:5000` if no port was specified.
 
+:warning: **UPDATE:** Getting an "Oooooops" error page? Try using **"http://"** instead of **"https://"** when accessing the application.
+
 ## In this project we used
 * [NodeJS](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
