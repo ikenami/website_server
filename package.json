@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ikenami/Deck-Royale-Server#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.17.3"
   }
 }
